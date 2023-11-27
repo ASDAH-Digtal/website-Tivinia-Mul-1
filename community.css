@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+
+.container {
+    display: grid;
+    grid-template-columns: 2fr 1fr 2fr;
+    grid-template-rows: auto;
+    grid-template-areas: 
+    "header header header"
+    "navbar navbar navbar"
+    "information information information"
+    "former_players netball_video image_1"
+    "former_players something something"
+    "sign_in sign_in join";
+}
+
+.header {
+    grid-area: header;
+    text-align: center;
+    background-color: #a98457;
+    color: #ffffff;
+    font-family: "Agbalumo";
+}
+
+.navbar {
+    grid-area: navbar;
+    text-align: center;
+}
+
+.navbar li {
+    list-style-type: none;
+    display: inline;
+    color: black;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.navbar li:hover {
+    background-color: #dddddd;
+}
+
+.information {
+    grid-area: information;
+    text-align: center;
+    background-color: bisque;
+    padding: 120px;
+
+}
+
+.former_players {
+    grid-area: former_players;
+    text-align: left;
+    font-family: "Agbalumo";
+    background-color: bisque;
+    padding-left: 128px;
+
+}
+
+.netball_video {
+    grid-area: netball_video;
+    text-align: center;
+    background-color: bisque;
+
+}
+
+.image_1 {
+    grid-area: image_1;
+    text-align: center;
+    font-family: "Agbalumo";
+    background-color: bisque;
+    
+}
+.something {
+    grid-area: something;
+    text-align: left;
+    background-color: bisque;
+    font-family: "Agbalumo";
+
+
+}
+
+
+.sign_in {
+    grid-area: sign_in;
+    padding: 30px;
+    background-color: bisque;
+    text-align: center;
+    background-color: #a98457;
+    font-family: "Agbalumo";
+
+
+}
+
+
+.join {
+    grid-area: join;
+    padding: 30px;
+    background-color: bisque;
+    text-align: center;
+    background-color: #a98457;
+    font-family: "Agbalumo";
+
+}

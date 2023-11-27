@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+
+.container {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr 2fr;
+    grid-template-rows: auto;
+    grid-template-areas: 
+    "header header header header"
+    "navbar navbar navbar navbar"
+    "player player player player"
+    "day day day day"
+    "information photo photo photo_1";
+}
+
+.header {
+    grid-area: header;
+    text-align: center;
+    background-color: #a98457;
+    color: #ffffff;
+    font-family: "Agbalumo";
+}
+
+.navbar {
+    grid-area: navbar;
+    text-align: center;
+    
+    color: #ffffff;
+}
+
+.navbar li {
+    list-style-type: none;
+    display: inline;
+    color: black;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.navbar li:hover {
+    background-color: #dddddd;
+}
+
+
+.player {  
+    grid-area: player;
+    text-align: center;
+    background-color: #a98457;
+    color: #ffffff;
+    font-family: "Agbalumo";
+}
+
+.day {
+    grid-area: day;
+    text-align: center;
+    background-color: #a98457;
+    color: #ffffff;
+    font-family: "Agbalumo";
+    }
+
+.information {
+    grid-area: information;
+    text-align: center right;
+    background-color: #a98457;
+}
+
+.photo {
+    grid-area: photo;
+    text-align: center left;
+    font-family: "Agbalumo";
+    background-color: #a98457;
+    padding-right: 276px;
+
+}
+
+.photo_1 {
+    grid-area: photo_1;
+    text-align: center right;
+    font-family: "Agbalumo";
+    background-color: #a98457;
+    padding-left: 189px;
+
+}

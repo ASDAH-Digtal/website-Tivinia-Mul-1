@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    grid-template-areas: 
+    "header header"
+    "navbar navbar"
+    "homepage_video homepage_video"
+    "info image_2"
+    "information information";
+}
+
+.header {
+    grid-area: header;
+    text-align: center;
+    background-color: #a98457;
+    color: #ffffff;
+    font-family: "Agbalumo";
+}
+
+.navbar {
+    grid-area: navbar;
+    text-align: center;
+}
+
+.navbar li {
+    list-style-type: none;
+    display: inline;
+    color: black;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.navbar li:hover {
+    background-color: #dddddd;
+}
+
+.homepage_video {
+    grid-area: homepage_video;
+    text-align: center;
+    background-color: bisque;
+}
+
+.info {
+    grid-area: info;
+    text-align: center;
+    font-family: "Agbalumo";
+    background-color: bisque;
+
+}
+
+.image_2 {
+    grid-area: image_2;
+    text-align: center;
+}
+
+.information {
+    grid-area: information;
+    text-align: center;
+    font-family: "Agbalumo";
+    background-color: #a98457;
+}
