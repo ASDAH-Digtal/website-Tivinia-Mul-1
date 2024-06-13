@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T23:40:03.133Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.5.4" etag="Rz36FmlYirNfoaqMKZW5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T23:54:48.119Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ozbfXVPx_yB1NaDqf5U1" version="24.5.4" type="github">
   <diagram name="Page-1" id="inaGgSSwJ6mHsrjC7pSN">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="31qVofbfsIixb1EZ1TiB-1" value="How plastics affect our enviroment in south auckland?" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#edede9;fillColor=#d5bdaf;" vertex="1" parent="1">
+          <mxGeometry x="20" y="40" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="31qVofbfsIixb1EZ1TiB-2" value="After affects of plastic" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6ccc2;fillColor=#d6ccc2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="40" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="31qVofbfsIixb1EZ1TiB-3" value="How to overcome the plastics being thrown around in our mangere/south auckland enviroment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5BDAF;" vertex="1" parent="1">
+          <mxGeometry x="600" y="40" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="31qVofbfsIixb1EZ1TiB-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 72px;&quot;&gt;Littering&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3d5ca;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="780" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="31qVofbfsIixb1EZ1TiB-5" value="Picture" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="20" y="340" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="31qVofbfsIixb1EZ1TiB-6" value="Picture" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="260" y="340" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="31qVofbfsIixb1EZ1TiB-7" value="Picture" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="480" y="340" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="31qVofbfsIixb1EZ1TiB-8" value="Picture" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="690" y="340" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="31qVofbfsIixb1EZ1TiB-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5bdaf;" vertex="1" parent="1">
+          <mxGeometry x="35" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="31qVofbfsIixb1EZ1TiB-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5bdaf;" vertex="1" parent="1">
+          <mxGeometry x="275" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="31qVofbfsIixb1EZ1TiB-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5bdaf;" vertex="1" parent="1">
+          <mxGeometry x="495" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="31qVofbfsIixb1EZ1TiB-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5bdaf;" vertex="1" parent="1">
+          <mxGeometry x="710" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="31qVofbfsIixb1EZ1TiB-13" value="Information" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3d5ca;" vertex="1" parent="1">
+          <mxGeometry x="40" y="600" width="800" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="31qVofbfsIixb1EZ1TiB-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5bdaf;" vertex="1" parent="1">
+          <mxGeometry x="20" y="790" width="820" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="31qVofbfsIixb1EZ1TiB-15" value="By..." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3d5ca;" vertex="1" parent="1">
+          <mxGeometry x="55" y="1000" width="750" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
