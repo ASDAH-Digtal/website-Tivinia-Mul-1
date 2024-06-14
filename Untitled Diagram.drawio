@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T23:54:48.119Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ozbfXVPx_yB1NaDqf5U1" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-14T00:00:21.554Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="UH9FPpruD_l1BkHSdOP3" version="24.5.4" type="github">
   <diagram name="Page-1" id="inaGgSSwJ6mHsrjC7pSN">
-    <mxGraphModel dx="1434" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="31qVofbfsIixb1EZ1TiB-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="850" height="1090" as="geometry" />
+        </mxCell>
         <mxCell id="31qVofbfsIixb1EZ1TiB-1" value="How plastics affect our enviroment in south auckland?" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#edede9;fillColor=#d5bdaf;" vertex="1" parent="1">
           <mxGeometry x="20" y="40" width="260" height="100" as="geometry" />
         </mxCell>
